@@ -1,2 +1,2 @@
-# lab958331
-new class lab958331
+# hcg-chaper-1
+This is repository of 560651023-HCG-chapter1
